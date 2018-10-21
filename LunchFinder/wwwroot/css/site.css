@@ -1,8 +1,36 @@
+/* flex styles */
+.flex-horizontal {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-vertical {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-spacer {
+    align-content: space-between;
+}
+
+.flex-stretch {
+    flex-grow: 1;
+}
+/* collapse */
+
+.navbar-collapse.collapse.in .flex-horizontal.flex-spacer {
+    text-align:right;
+    flex-direction:column;
+}
+
 body {
     padding-top: 50px;
     padding-bottom: 20px;
 }
 
+.map-container {
+    height: 700px;
+}
 /* Wrapping element */
 /* Set some basic padding to keep content from hitting the edges */
 .body-content {
