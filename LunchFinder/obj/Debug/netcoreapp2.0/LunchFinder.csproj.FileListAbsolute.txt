@@ -3,7 +3,6 @@ C:\Users\Development\source\repos\lunch-finder\LunchFinder\bin\Debug\netcoreapp2
 C:\Users\Development\source\repos\lunch-finder\LunchFinder\bin\Debug\netcoreapp2.0\LunchFinder.runtimeconfig.dev.json
 C:\Users\Development\source\repos\lunch-finder\LunchFinder\bin\Debug\netcoreapp2.0\LunchFinder.dll
 C:\Users\Development\source\repos\lunch-finder\LunchFinder\bin\Debug\netcoreapp2.0\LunchFinder.pdb
-C:\Users\Development\source\repos\lunch-finder\LunchFinder\obj\Debug\netcoreapp2.0\LunchFinder.csprojResolveAssemblyReference.cache
 C:\Users\Development\source\repos\lunch-finder\LunchFinder\obj\Debug\netcoreapp2.0\LunchFinder.csproj.CoreCompileInputs.cache
 C:\Users\Development\source\repos\lunch-finder\LunchFinder\obj\Debug\netcoreapp2.0\LunchFinder.AssemblyInfoInputs.cache
 C:\Users\Development\source\repos\lunch-finder\LunchFinder\obj\Debug\netcoreapp2.0\LunchFinder.AssemblyInfo.cs

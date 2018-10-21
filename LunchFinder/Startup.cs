@@ -7,6 +7,7 @@ using LunchFinder.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Routing;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -38,8 +39,7 @@ namespace LunchFinder {
             app.UseAuthentication();
             app.UseStaticFiles();
 
-
-            app.UseMvc();
+            app.UseMvcWithDefaultRoute();
         }
     }
 }
